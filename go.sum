@@ -1,0 +1,14 @@
+github.com/Masterminds/semver/v3 v3.1.1 h1:hLg3sBzpNErnxhQtUy/mmLR2I9foDujNK030IGemrRc=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/go-kivik/couchdb/v4 v4.0.0-20230403193523-d950b18ca444 h1:FGuboxgxnPaBOn4+Ae2MZ1SLv94h1ViO0qUOGZjYmhU=
+github.com/go-kivik/couchdb/v4 v4.0.0-20230403193523-d950b18ca444/go.mod h1:sso6w7UGIs/VXMd7FAug18l5cCOQOYdp2eY8Pn8baAk=
+github.com/go-kivik/kivik/v4 v4.0.0-20230331074407-d84254814834 h1:09mIQDbdTiN7hNz0oy+MgkQSVhHE5H1R8pXDhEvOoHk=
+github.com/go-kivik/kivik/v4 v4.0.0-20230331074407-d84254814834/go.mod h1:WXlDuyGPIcNq7ejCME+bqYl7vzH/KpM9FLRPfsYEjZI=
+github.com/go-kivik/kiviktest/v4 v4.0.0-20230330202035-a6ae53d9f5a9 h1:B/9qQ+FU0fU2olMijOAqifmkxPmbuFs/QeO2vfFn1vk=
+github.com/gopherjs/gopherjs v1.17.2 h1:fQnZVsXk8uxXIStYb0N4bGk7jeyTalG/wsZjQ25dO0g=
+github.com/otiai10/copy v1.7.0 h1:hVoPiN+t+7d2nzzwMiDHPSOogsWAStewq3TwU05+clE=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+gitlab.com/flimzy/testy v0.12.2 h1:m4JS/yYRUi8k/KbcxJrRw6eTHYnVmHm9XRKALrtwB9g=
+golang.org/x/net v0.8.0 h1:Zrh2ngAOFYneWTAIAPethzeaQLuHwhuBkuV6ZiRnUaQ=
+golang.org/x/net v0.8.0/go.mod h1:QVkue5JL9kW//ek3r6jTKnTFis1tRmNAW2P1shuFdJc=
